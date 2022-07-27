@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "sarbaz";
-    src: url("./sarbaz.ttf") format("ttf");
+    font-family: 'sarbaz';
+    src: url('./sarbaz.ttf') format('ttf');
 }
 * {
     padding: 0;
@@ -11,7 +11,7 @@
 }
 body {
     direction: rtl;
-    font-family: "sarbaz";
+    font-family: 'sarbaz';
     background-image: linear-gradient(135deg, #21254e, #2b4a83);
     height: 100vh;
     display: flex;
